@@ -18,14 +18,14 @@
     "related": "Related",
     "top": "Top",
     "topCollection": {
-      "artists": "Top artists",
-      "albums": "Top albums",
-      "tracks": "Top tracks",
-      "tags": "Top tags"
+      "artists": "Poppin artists",
+      "albums": "Poppin albums",
+      "tracks": "Poppin tracks",
+      "tags": "Poppin tags"
     },
-    "releases": "Releases",
+    "releases": "Whats new ",
     "releasesCollection": {
-      "new": "New releases",
+      "new": "Fuck that old shit and lets find out whats new",
       "upcoming": "Upcoming releases"
     },
     "new": "New",
