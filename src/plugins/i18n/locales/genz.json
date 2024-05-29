@@ -332,9 +332,9 @@
       "remember": "Remember me bitch",
       "asCommunity": "As community"
     },
-    "extra": "Additional info",
+    "extra": "Gimme more info",
     "errors": {
-      "notFound": "Profile is not found",
+      "notFound": "Womp Womp yo profile not found",
       "empty": {
         "email": "Email is empty",
         "password": "Password is empty",
@@ -358,7 +358,7 @@
         "password": "Password is too short"
       },
       "tooLong": {
-        "nickname": "Nickname is too long"
+        "nickname": "Name U too long "
       },
       "confirmation": {
         "passwordConfirmation": "Password and its confirmation don't match"
