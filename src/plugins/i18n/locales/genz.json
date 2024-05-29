@@ -151,10 +151,10 @@
     "share": "Share",
     "search": "Look it up",
     "filter": "Filter",
-    "confirm": "Confirm",
-    "import": "Import",
-    "close": "Close",
-    "openLink": "Open link",
+    "confirm": "Bet",
+    "import": "Bring it in",
+    "close": "Go off",
+    "openLink": "Check out this link",
     "addFrom": {
       "search": "From search",
       "library": "From library"
@@ -164,16 +164,16 @@
       "account": "From account"
     },
     "searchIn": {
-      "source": "Search in source",
-      "sources": "Search in sources"
+      "source": "Lookup in source",
+      "sources": "Lookup in sources"
     },
     "searchFor": {
-      "video": "Search for video",
-      "lyrics": "Search for lyrics"
+      "video": "Loookup da video",
+      "lyrics": "Lookup da lyrics"
     },
     "importFromAccount": {
-      "lastfm": "Import from Last.FM",
-      "spotify": "Import from Spotify"
+      "lastfm": "Bring dat in from Last.FM",
+      "spotify": "Bring dat in from Spotify"
     },
     "selectModel": {
       "folder": "Select folder"
@@ -184,7 +184,7 @@
       "post": "Create post"
     },
     "addModel": {
-      "comment": "Add comment"
+      "comment": "Drop a comment"
     },
     "addTo": {
       "library": "Add to library",
@@ -197,14 +197,14 @@
       "savedTracks": "Add to saved tracks"
     },
     "show": {
-      "library": "Show in library",
-      "page": "Show page"
+      "library": "Display in library",
+      "page": "Display page"
     },
     "deleteFrom": {
-      "favorites": "Delete from favorites",
-      "bookmarks": "Delete from bookmarks",
-      "listened": "Delete from listened",
-      "watched": "Delete from watched"
+      "favorites": "Yeet from favorites",
+      "bookmarks": "Yeet from bookmarks",
+      "listened": "Yeet from listened",
+      "watched": "Yeet from watched"
     },
     "externalLink": {
       "open": "Open external link",
@@ -224,70 +224,70 @@
     "delete": {
       "header": {
         "libraryModel": {
-          "artist": "Delete artist from library",
-          "album": "Delete album from library",
-          "track": "Delete track from library"
+          "artist": "Yeet artist from library",
+          "album": "Yeet album from library",
+          "track": "Yeet track from library"
         },
         "recommendationModel": {
-          "artist": "Delete artist from recommendations",
-          "track": "Delete track from recommendations"
+          "artist": "Yeet artist from recommendations",
+          "track": "Yeet track from recommendations"
         },
-        "playlist": "Delete playlist",
-        "playlistTrack": "Delete track from playlist",
-        "savedTrack": "Delete track from saved tracks",
+        "playlist": "Yeet playlist",
+        "playlistTrack": "Yeet track from playlist",
+        "savedTrack": "Yeet track from saved tracks",
         "favorite": {
-          "artist": "Delete artist from favorites",
-          "album": "Delete album from favorites",
-          "track": "Delete track from favorites",
-          "video": "Delete video from favorites"
+          "artist": "Yeet artist from favorites",
+          "album": "Yeet album from favorites",
+          "track": "Yeet track from favorites",
+          "video": "Yeet video from favorites"
         },
         "bookmark": {
-          "artist": "Delete artist from bookmarks",
-          "album": "Delete album from bookmarks",
-          "track": "Delete track from bookmarks",
-          "video": "Delete video from bookmarks",
-          "videoChannel": "Delete video channel from bookmarks",
-          "videoPlaylist": "Delete video playlist from bookmarks"
+          "artist": "Yeet artist from bookmarks",
+          "album": "Yeet album from bookmarks",
+          "track": "Yeet track from bookmarks",
+          "video": "Yeet video from bookmarks",
+          "videoChannel": "Yeet video channel from bookmarks",
+          "videoPlaylist": "Yeet video playlist from bookmarks"
         },
-        "post": "Delete post",
-        "comment": "Delete comment",
-        "community": "Delete community",
-        "account": "Delete account",
-        "library": "Delete library",
+        "post": "Yeet post",
+        "comment": "Yeet comment",
+        "community": "Yeet community",
+        "account": "Yeet account",
+        "library": "Yeet library",
         "history": {
-          "activity": "Delete activity history",
-          "browser": "Delete browser history",
-          "player": "Delete player history"
+          "activity": "Yeet activity history",
+          "browser": "Yeet browser history",
+          "player": "Yeet player history"
         }
       },
       "going": {
-        "libraryModel": "You are going to delete {modelName} from your library.",
-        "recommendationModel": "You are going to delete {modelName} from your recommendations.",
-        "playlist": "You are going to delete {modelName} from your playlists.",
-        "playlistTrack": "You are going to delete {modelName} from {parentModelName} playlist.",
-        "savedTrack": "You are going to delete {modelName} from your saved tracks.",
-        "favorite": "You are going to delete {modelName} from your favorites.",
-        "bookmark": "You are going to delete {modelName} from your bookmarks.",
-        "post": "You are going to delete this post.",
-        "comment": "You are going to delete this comment.",
-        "community": "You are going to delete this community.",
-        "account": "You are going to delete your account.",
-        "library": "You are going to delete your library.",
+        "libraryModel": "Yo gonna yeet {modelName} from yo library.",
+        "recommendationModel": "Yo gonna yeet {modelName} from yo recommendations.",
+        "playlist": "Yo gonna yeet {modelName} from yo playlists.",
+        "playlistTrack": "Yo gonna yeet {modelName} from {parentModelName} playlist.",
+        "savedTrack": "Yo gonna yeet {modelName} from yo saved tracks.",
+        "favorite": "Yo gonna yeet {modelName} from yo favorites.",
+        "bookmark": "Yo gonna yeet {modelName} from yo bookmarks.",
+        "post": "Yo gonna yeet this post.",
+        "comment": "Yo gonna yeet this comment.",
+        "community": "Yo gonna yeet this community.",
+        "account": "Yo gonna yeet yo account.",
+        "library": "Yo gonna yeet yo library.",
         "history": {
-          "activity": "You are going to delete your activity history.",
-          "browser": "You are going to delete your browser history.",
-          "player": "You are going to delete your player history."
+          "activity": "Yo gonna yeet yo activity history.",
+          "browser": "Yo gonna yeet yo browser history.",
+          "player": "Yo gonna yeet yo player history."
         }
       },
       "also": {
         "libraryModel": {
-          "artist": "This will also delete all this artist's albums and tracks.",
-          "album": "This will also delete all this album's tracks."
+          "artist": "This will yeet all this artist's albums and tracks.",
+          "album": "This will yeet all this album's tracks."
         },
-        "playlist": "This will also delete all this playlist's tracks.",
-        "community": "This will also delete all this community's posts.",
+        "playlist": "This will yeet all this playlist's tracks.",
+        "community": "This will yeet all this community's posts.",
         "account": [
-          "This will also delete your following data:",
+          "This will yeet yo following data:",
           "<strong>- library\n- recommendations\n- playlists\n- favorites\n- bookmarks\n- listened\n- your page posts\n- subscriptions\n- history</strong>",
           "This data will remain, but your nickname won't be displayed:",
           "<strong>- created posts\n- created comments\n- conversations with you\n- created communities</strong>",
@@ -295,11 +295,11 @@
           "<strong>- saved tracks\n- background images\n- settings</strong>"
         ],
         "library": [
-          "This will delete your following data:",
+          "This will yeet yo following data:",
           "<strong>- artists\n- albums\n- tracks\n- recommendations</strong>"
         ]
       },
-      "undo": "You can't undo this action!",
+      "undo": "Yo can't undo this action!",
       "sure": "Are you sure?"
     }
   },
@@ -312,7 +312,7 @@
       "nickname": "Nickname",
       "title": "Title",
       "description": "Description",
-      "gender": "Gender",
+      "gender": "He/Him or She/Her ",
       "birthdate": "Birth date",
       "country": "Country",
       "city": "City",
@@ -320,16 +320,16 @@
       "clientId": "Client ID",
       "clientSecret": "Client secret",
       "genders": {
-        "male": "Male",
-        "female": "Female",
-        "other": "Other"
+        "male": "He/Him",
+        "female": "She/her",
+        "other": "They/Them"
       },
       "legal": {
         "header": "I agree to the {privacyPolicy} and the {termsAndConditions}",
         "privacyPolicy": "Privacy Policy",
-        "termsAndConditions": "Terms And Conditions"
+        "termsAndConditions": "WHO EVEN READS THESE ANYMORE"
       },
-      "remember": "Remember me",
+      "remember": "Remember me bitch",
       "asCommunity": "As community"
     },
     "extra": "Additional info",
